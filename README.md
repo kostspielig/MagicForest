@@ -6,6 +6,8 @@
 ## What happening?
 You control the **goblin**, our main character. You will be searching for mushrooms in the forest, while dodging trees, that you should avoid touching as they collapse easily.
  
+![ScreenShot](https://raw.github.com/kostspielig/MagicForest/master/mf5.png)
+
 ## Class structure
 
 ### Goblin
