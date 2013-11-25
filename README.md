@@ -8,7 +8,7 @@ You control the **goblin**, our main character. You will be searching for mushro
  
 ## Class structure
 
-## Goblin
+### Goblin
 
 The main character of the game. This class is an entity and a keyboard listener, as we can control it via keyboard. This class also incorporates a camera that will follow the goblin.
 
